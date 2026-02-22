@@ -1,1 +1,1 @@
-https://github.com/aNOOBisTheGod/slozhno-sosredotochitsya-ad
+https://github.com/aNOOBisTheGod/slozhno-sosredotochitsya-fd

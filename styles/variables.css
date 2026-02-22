@@ -2,23 +2,28 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
 :root {
-  --basic-pink: #FF8DCB;
-  --title-pink: #FFC2E6;
-  --almost-white-bg: #FFF1F7;
-  --real-red: #ff0070;
-  --approximately-black: #000028;
-  --almost-black: #353430;
+  --page-bg-image: url("../images/cover-image-dark.png");
+  --page-bg-color: #000028;
+  --decor-corner-color: #ff0070;
+  --accent-color: #ff0070;
+  --main-font: "IBM Plex mono", monospace;
+  --title-color: #db00ff;
+  --accent-text-color: #000028;
+  --button-text-color: #ff0070;
+  --text-color: #f1b2ce;
+  --section-title-color: #ff0070;
+  --link-shadow-color: #ff0070;
 
-  --regular-font-size: 18px;
-  --regular-line-height: 100%;
-  --regular-gap: 10px;
-  --decoration-gap: clamp(10px , 2.65vw , 20px);
-  --min-height: 668px;
-  --header-margin-left: min(10px , 20px - 2.6vw);
-  --section-child-margin: 40px;
-  --project-font-family: "IBM Plex Mono", "Arial", sans-serif;
-  --corner-thickness: 1px;
-  --rec_empty_x_pos: 30px;
+  --header-rec-visibility: inline-flex;
+  --header-theme-menu-button-hover: #ff007080;
+  --page-padding: 10px;
+  --section-gap: 50px;
+  --card-gap: 20px;
+
+  --font-size-base: 18px;
+  --line-height-base: 23.4px;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
 }
-
